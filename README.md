@@ -144,7 +144,7 @@ Some of the topics that NMF revealed were regarding potential shipment issue, pr
 These could be valuable information to Nintendo's logistics, sales team, and the development team.
 
 ### Launch
-I also focused on the week after launch by sentiment. Each "group" of comments reveal some different topics.
+I also filtered on the week after launch by sentiment. Each "group" of comments reveal some different topics.
 <br/>
 <br/>
 The positive comments over this period are consistent with the overall comment pool:
@@ -159,7 +159,7 @@ The neutral comments contained the keyword `hemisphere`, where players were look
 <br/>
 The negative comments were the most revealing; some players seemed to have network issues, while some others had complaints about the mystery island and tools mechanics
 <br/>
-<img src="https://github.com/tchleung/Wholesome_Possum/blob/master/img/launch_neu.png" width=600>
+<img src="https://github.com/tchleung/Wholesome_Possum/blob/master/img/launch_neg.png" width=600>
 
 ## **Conclusion**
 
