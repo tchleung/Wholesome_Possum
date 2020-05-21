@@ -186,7 +186,7 @@ Some ideas for future work
 ![tools](/img/tools.png)
 
 ## **Credits**
-All Animal Crossing imageries from Google image search, all rights belong to Nintendo
-Subreddit comments queried using Pushshift.io
-Sentiment analysis package - VADER
+All Animal Crossing imageries from Google image search, all rights belong to Nintendo <br/>
+Subreddit comments queried using Pushshift.io <br/>
+Sentiment analysis package - VADER <br/>
 LDA Model Visualization - LDAvis
