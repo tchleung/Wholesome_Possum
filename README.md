@@ -2,7 +2,7 @@
 # NLP Analysis of the Animal Crossing Subreddit
 ![new_horizons_cover](/img/new_horizons_cover.png)
 
-#### ![Click here](https://github.com/tchleung/Wholesome_Possum/blob/master/Wholesome%20Possum%20-%203%20minute%20presentation.pdf) for a 3-minute summary presentation 
+#### See [here](https://youtu.be/Mpfyi9gBINI) for a 3-minute video presentation on youtube; [here](https://github.com/tchleung/Wholesome_Possum/blob/master/Wholesome%20Possum%20-%203%20minute%20presentation.pdf) for the slide deck.
 
 # Table of Contents
 <!--ts-->
